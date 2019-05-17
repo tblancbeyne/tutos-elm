@@ -1,1 +1,1 @@
-My cod following elm-lang tutorials.
+My code following elm-lang tutorials.
